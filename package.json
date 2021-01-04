@@ -123,7 +123,7 @@
     "webpack": "^3.11.0",
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dashboard": "^2.0.0",
-    "webpack-dev-server": "^2.7.1",
+    "webpack-dev-server": "^3.1.11",
     "worker-loader": "^0.8.0",
     "xml2js": "^0.4.19"
   },
